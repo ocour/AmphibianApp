@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AmphibianApp</string>
+    <string name="app_title">Amphibians</string>
+    <string name="error_msg">An Error Occurred</string>
+    <string name="retry">Retry</string>
+</resources>
